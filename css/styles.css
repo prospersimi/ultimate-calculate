@@ -1,12 +1,27 @@
 body {
   background-color: darkgrey;
 }
+
 .container {
   background-color: lightgray;
+  padding: 50px;
+  border: 2px solid blue;
 }
+
 .logic {
   background-color: burlywood;
   padding: 5px;
   border: 2px solid green;
   border-radius: 3%;
+}
+
+h1 {
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+.ans {
+  background-color: lightgray;
+  padding: 5px;
+  border: 2px solid green;
 }
