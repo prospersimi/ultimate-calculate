@@ -1,0 +1,12 @@
+body {
+  background-color: darkgrey;
+}
+.container {
+  background-color: lightgray;
+}
+.logic {
+  background-color: burlywood;
+  padding: 5px;
+  border: 2px solid green;
+  border-radius: 3%;
+}
